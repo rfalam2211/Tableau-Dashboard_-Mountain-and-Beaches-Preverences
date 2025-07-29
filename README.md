@@ -1,7 +1,9 @@
 # Tableau-Dashboard_-Mountain-and-Beaches-Preverences
 
 Penjelasan Gambaran umum project
+
 Exploratory Data Analysis - Notebook for EDA using Python
+
 Dataset - Dataset yang digunakan untuk pengolahan data dan menampilkan data pada Tableau
 
 ## Problem Background
