@@ -14,7 +14,8 @@ Output dari project ini adalah dashboard pada Tableau Public yang berasal dari h
 
 
 ## Data
-Data diambil pada laman https://www.kaggle.com/datasets/jahnavipaliwal/mountains-vs-beaches-preference Data ini memiliki karateristik sebagai berikut.
+Data diambil pada laman "https://www.kaggle.com/datasets/jahnavipaliwal/mountains-vs-beaches-preference".
+Data ini memiliki karateristik sebagai berikut.
 
 | Column     | Count | Dtype      |
 |:---------|:----:|----------:|
