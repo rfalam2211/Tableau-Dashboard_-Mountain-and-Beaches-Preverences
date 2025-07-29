@@ -16,22 +16,22 @@ Output dari project ini adalah dashboard pada Tableau Public yang berasal dari h
 ## Data
 Data diambil pada laman https://www.kaggle.com/datasets/jahnavipaliwal/mountains-vs-beaches-preference Data ini memiliki karateristik sebagai berikut.
 
-Column Non-Null Count Dtype
-0 Age 52444 non-null int64
-1 Gender 52444 non-null object
-2 Income 52444 non-null int64
-3 Education_Level 52444 non-null object
-4 Travel_Frequency 52444 non-null object
-5 Preferred_Activities 52444 non-null object
-6 Vacation_Budget 52444 non-null int64
-7 Location 52444 non-null object
-8 Proximity_to_Mountains 52444 non-null int64
-9 Proximity_to_Beaches 52444 non-null int64
-10 Favorite_Season 52444 non-null object
-11 Pets 52444 non-null int64
-12 Environmental_Concerns 52444 non-null int64
-13 Preference 52444 non-null int64
-
+| Column     | Count | Dtype      |
+|:---------|:----:|----------:|
+| Age     |  52444  | int64   |
+| Gender  |  52444  | object  |
+| Income     |  52444  | int64   |
+| Education_Level  |  52444  | object  |
+| Travel_frequency     |  52444  | object   |
+| Preferred_Activities  |  52444  | object  |
+| Vacation_Budget     |  52444  | int64   |
+| Location  |  52444  | object  |
+| Proximity_to_Mountains     |  52444  | int64   |
+| Proximity_to_Beaches  |  52444  | int64  |
+| Favorite_Season     |  52444  | object   |
+| Pets  |  52444  | int64  |
+| Environmental_Concerns     |  52444  | int64   |
+| Preference  |  52444  | int64  |
 
 ## Method
 Project ini mengelola data pada vscode dan menggunakan dataset berupa file csv dari kaggle. Visualisasi data menggunakan Tableau Public. Project ini menganalisa beberapa data yang ada pada dataset untuk dianalisis bisnis marketing. Data diolah dengan mencari hubungan tiap data, persebaran data, dan nilai analsis seperti skewness, standar deviasi, rata-rata, perbandigan nilai dari beberapa tabel, dan kurtosisnya.
